@@ -1,1 +1,1 @@
-# assignment1_EntSWplat
+# assignment1_EnterpriseSoftwarePlatforms
